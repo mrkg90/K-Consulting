@@ -1,0 +1,19 @@
+{
+  "name": "k-consulting",
+  "version": "1.0.0",
+  "description": "Manuel Känzig — Finanzwissen für Ihre Pensionierung",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo \"Static site — no build step required\" && exit 0",
+    "start": "echo \"Open index.html in a browser\" && exit 0"
+  },
+  "keywords": [
+    "static",
+    "html",
+    "finance",
+    "consulting"
+  ],
+  "author": "Manuel Känzig",
+  "license": "UNLICENSED"
+}
