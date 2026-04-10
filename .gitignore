@@ -1,0 +1,14 @@
+# Sensitive personal documents
+Businessplan.pdf
+Manuel Känzig CV.pdf
+*.pdf
+
+# Unused legacy stylesheet (CSS is inlined in index.html)
+style.css
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
